@@ -1,0 +1,32 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {"name of vm": {
+        "value": "akanso-vm"
+    },
+
+    "vm public ip address": {
+        "value": "akanso20-public ipaddress"
+    },
+
+    "name of vmnsg": {
+        "value": "akanso21-nsg"
+    },
+
+    "name of vm-virtualnetwork": {
+        "value": "akanso22-vm-virtualnetwork"
+    },
+
+    "name of vm-virtualnetwork-subnet": {
+        "value": "akanso23-virtualnetwork-subnet"
+    },
+
+    "name of vm-networkinterface": {
+        "value": "akanso24 vm-networkinterface"
+    },
+
+    "adminuser-name": {
+        "value": "udealor40"
+    }
+    }
+}
